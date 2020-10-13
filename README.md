@@ -48,3 +48,12 @@ Starting development server at http://127.0.0.1:8000/
 Quit the server with CTRL-BREAK.
 
 * Open your browser and paste the above local URL.
+
+# Accounts
+You can login as one of the following customers:
+1. username: t8170136 / password: Theodosis14
+2. username: tommy / password: djangotommy
+
+From the navbar navigate to "My purchases" in order to see what purchases you've made so far.
+There, you can choose to either make a new store review or edit an existing one.
+Each store has all the reviews concerning it gathered at its own profile.

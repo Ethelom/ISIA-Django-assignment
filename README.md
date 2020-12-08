@@ -10,7 +10,7 @@ Moreover, there are two folders (static/ and templates/) that do **NOT** pertain
 to the whole project. Thus, they can be found at the same directory level with the apps.
 This is encouraged according to the Django [docs](https://docs.djangoproject.com/en/3.1/howto/static-files/).
 
-Of course, each app has each own static/ and templates/ folders, but those can be found in each app's respective folder.
+Of course, each app has its own static/ and templates/ folders, but those can be found in each app's respective folder.
 
 # Dependencies and Run
 In order to install the dependencies run the following commands in the root:
